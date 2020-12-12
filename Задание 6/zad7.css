@@ -3,11 +3,14 @@
    }
 
   .button1 {
-    background: gray; /* Синий цвет фона */ 
-    color: white; /* Белые буквы */ 
+    background: gray; /* Синий цвет фона */
+    color: white; /* Белые буквы */
     font-size: 9pt; /* Размер шрифта в пунктах */
 	}
 
   .block {
   	font-size: 15pt;
   }
+  .item:focus{
+          background-color: #7FFF00;
+       }
